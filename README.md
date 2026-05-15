@@ -8,11 +8,11 @@ Although the XVTR itself is ready, the roving station is not yet build.
 
 # Quick indicative reference data
 
-IF: 432MHz 27dBm
-RX: Nf 1.5dB, G 36dB
-TX: 27dBm
-DC: 8V RX 500mA, TX no drive 600mA, TX full drive 1000mA
-REF: Internal 40MHz TCXO: stable enough for EME, but optional external Ref e.g. 10MHz
+ - IF: 432MHz 27dBm
+ - RX: Nf 1.5dB, G 36dB
+ - TX: 27dBm
+ - DC: 8V RX 500mA, TX no drive 600mA, TX full drive 1000mA
+ - REF: Internal 40MHz TCXO: stable enough for EME, but optional external Ref e.g. 10MHz
   
 
 # Basic circuit description
