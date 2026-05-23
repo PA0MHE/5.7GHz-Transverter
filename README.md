@@ -5,6 +5,7 @@ Original intention was to make a 6cm XVTR for roving application driving from an
 The first design was on a 2 layer JLCPCB teflon substrate, the latest version was done together with Rens PA3AXA, on double sided FR4.
 Although the XVTR itself is ready, the roving station is not yet build.
 
+![Alt text](./5GHz_TransverterSTuW_4Layer_V3.0.jpg)
 
 # Quick indicative reference data
 
