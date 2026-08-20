@@ -39,5 +39,10 @@ Having a heatplate eases the soldering much, however we experienced the 4 layer 
 As still some "exotic" keycomponents are used, is the design not really optimised for JLCPCB assembly, unless you are happy with only SMD R and C.
 
 
+# Mofication
+
+When switching from RX to TX the PLL goes sometimes out of lock. This is due to a voltage ripple on the 5V after switching, which causes the PLL to reset.
+The fix is a 10uF 0805 SMD capacitor between output (pin 3) and GND of U103,close to the IC. 
+
 
 73's Maarten PA0MHE
